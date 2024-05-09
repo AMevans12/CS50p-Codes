@@ -1,4 +1,3 @@
-CS50p Assignments Repository
 Welcome to the CS50p Assignments Repository! 🎉
 
 This repository serves as a comprehensive archive of code solutions for all assignments from the CS50's Introduction to Computer Science for Python (CS50p) course. Whether you're a student currently enrolled in the course, an alum revisiting concepts, or an enthusiast exploring Python programming, you'll find this repository to be an invaluable resource.
@@ -18,7 +17,7 @@ To get started with the CS50p Assignments Repository, follow these steps:
 
 Clone the Repository: Clone this repository to your local machine using the following command:
 
-git clone <repository-url>
+git clone <[repository-url](https://github.com/AMevans12/CS50p-Codes?tab=readme-ov-file)>
 
 
 
